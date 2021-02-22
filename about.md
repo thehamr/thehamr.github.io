@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Hoaxes Exposed
+title: About Shallow Release
 permalink: /about/
 tags: about
 ---

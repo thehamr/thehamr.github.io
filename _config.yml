@@ -1,10 +1,10 @@
 # Site settings
-title:       Hoaxes Exposed
+title:       Shallow Release
 email:       thehamr@tuta.io
 author:      Editor
 description: "Harebrained schemes and buffoonish coup d'états"
 baseurl:     ""
-url:         "http://thehamr.github.io"
+url:         "www.shallowrelease.xyz"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
