@@ -14,7 +14,7 @@ Despite the scandal, Gibbons would become Governor of Nevada. But in May 2007 [N
 
 Despite Montgomery working with the FBI, after 18 months they found no evidence of wrongdoing and [the case against Gibbons was dropped](https://www.nytimes.com/2008/11/03/us/03nevada.html).
 
-Montgomery had [two of his attorneys withdraw](https://www.reviewjournal.com/news/governor-says-truth-coming-out/) from the case after a compuer expert determined **Montgomery had fabricated at least one of the emails** used as the basis for the case against Gibbons.
+Montgomery had [two of his attorneys withdraw](https://www.reviewjournal.com/news/governor-says-truth-coming-out/) from the case after a computer expert determined **Montgomery had fabricated at least one of the emails** used as the basis for the case against Gibbons.
 
 Montgomery would also pay a settlement to Trepp for false statements made in public. Per the New York Times:
 
