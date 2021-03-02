@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dennis Montgomery: The Man Who Conned the Pentagon (December 2003 Terror Hoax)
+title: Dennis Montgomery - The Man Who Conned the Pentagon (December 2003 Terror Hoax)
 date: 2021-03-01 12:00
 summary: Somebody's doing the hoaxing.
 categories: hammer scorecard
